@@ -2,8 +2,10 @@
 
 Courses are organized under Jupyter notebooks
 
+Each chapter contains: Course + Exercises + Solutions
 
-* Variables and Data types
-* Boolean operators
-* Scoop on Lists/Tuples/Dictionnarys
+# Course Structure
+1. Variables and Data types
+2. Boolean operators
+3. Scoop on Lists/Tuples/Dictionnarys
 
